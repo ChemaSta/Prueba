@@ -1,0 +1,24 @@
+@charset "utf-8";
+.main {
+	background-color: #333;
+	background-image: url(Images/bcc3a7695a97de2c5ccd8c8d78a2b1c2.jpg);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-size:cover;
+}
+
+
+.layer {
+	background-color: #F93;
+	position: absolute;
+	height: 60%;
+	width: 60%;
+	left: 20%;
+	top: 20%;
+	font-family: "Comic Sans MS", cursive;
+	font-size: xx-large;
+	text-align: center;
+	overflow: scroll;
+	border: solid #000;
+}
